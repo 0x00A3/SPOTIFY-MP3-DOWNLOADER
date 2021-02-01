@@ -7,8 +7,8 @@ fi
 
 clear
 case "$OSTYPE" in
-  linux*)   echo `apt-get install youtube-dl` ;;
-  msys*)    echo `pip install youtube-dl` ;;
+  linux*)   echo `apt-get install spotify_dl` ;;
+  msys*)    echo `pip install spotify_dl` ;;
 esac
 
 clear
